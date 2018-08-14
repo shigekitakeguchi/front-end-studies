@@ -1,0 +1,31 @@
+@charset "UTF-8";
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+html {
+  min-height: 100%;
+  box-sizing: border-box;
+  font-size: 62.5%;
+  text-size-adjust: 100%;
+  background-color: #e6ecf0; }
+
+body {
+  font-size: 14px;
+  background-color: #e6ecf0;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Hiragino Kaku Gothic ProN, "\30D2\30E9\30AE\30CE\89D2\30B4   ProN W3", Arial, "\30E1\30A4\30EA\30AA", Meiryo, sans-serif;
+  -webkit-font-feature-settings: "palt" 1;
+  font-feature-settings: "palt" 1;
+  -webkit-font-feature-settings: "palt" 1;
+  font-feature-settings: "palt" 1;
+  -webkit-font-smoothing: antialiased;
+  position: relative;
+  line-height: 1.8;
+  margin: 0;
+  color: #333; }
+
+a {
+  margin: 0;
+  font-size: 12px; }
